@@ -40,16 +40,3 @@ Abra o terminal e execute:
 
 ```bash
 git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-
-cd SEU-REPOSITORIO
-npm install
-npm test
-
-
-### 2. O que você precisa alterar
-
-Troque:
-
-```text
-SEU-USUARIO
-git clone https://github.com/joao/sistema-biblioteca.git
